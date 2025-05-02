@@ -1,0 +1,68 @@
+body
+{
+	font-size : 16pt;
+	font-family : monospace, cursive;
+	margin-left : 5%;
+	margin-right : 5%;
+	margin-top : 5%;
+	margin-bottom : 5%;
+	background-image : url("https://i.natgeofe.com/n/c9107b46-78b1-4394-988d-53927646c72b/1095.jpg");
+	background-repeat: no-repeat;
+	background-size : cover;
+	color : rgb(255, 255, 255);
+	text-align : justify;
+	text-align :
+}
+
+.center
+{
+	text-align : center;
+	font-size : 50pt;
+	color: rgb(255, 255, 255);
+}
+
+.MetroBoomin
+{
+	text-align : center;
+	font-size : 35pt;
+	color : rgb(0, 0, 0);
+}
+
+hr { background-color: black; height: 5px; border: 0; }
+
+
+.left
+{
+	text-align : left;
+}
+
+.right
+{
+	text-align : right;
+}
+
+table {text-align : center; }
+
+a:hover { 
+ font-size: 40pt;
+ color: rgb(255, 255, 255);
+ border-bottom: none;
+}
+
+a:active {
+ color: rgb(255, 255, 255);
+}
+
+a {
+	color:  rgb(255, 255, 255);
+}
+
+.insta {
+	width: 100px;
+	height: 100px;
+}
+
+.insta2 {
+	width: 200px;
+	height: 200px;
+}
